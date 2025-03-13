@@ -1,0 +1,19 @@
+# Build files
+*.o
+*.exe
+*.out
+
+# Logs
+logs/
+*.log
+
+# Data files
+medication_data.txt
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
